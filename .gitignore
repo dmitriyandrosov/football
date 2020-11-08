@@ -1,0 +1,4 @@
+vendor/
+composer.phar
+prediction.iml
+.idea/
